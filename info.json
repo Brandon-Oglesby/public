@@ -1,0 +1,12 @@
+{
+  "gameRevision": "226",
+  "runeliteVersion": "1.10.43",
+  "customLoaderVersion": "3.0.0",
+  "preventMasterLoad": "false",
+  "preventEffectTimers": "false",
+  "preventHouseOverlay": "false",
+  "preventCustomUtils": "false",
+  "preventSpecbar": "false",
+  "preventAoeWarnings": "false",
+  "preventInferno": "false"
+}
