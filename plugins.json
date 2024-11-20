@@ -10,9 +10,9 @@
     "releases": [
       {
         "date": "2024-11-19",
-        "sha512sum": "BFE2FA6516A686CCC4375D704CB5A201D9974C05E881F963B8AEA7EE42E518C3F8A4A5D2247CEABFA04A39627857396A89ADF37774135DC8BBDF2FB5DE93CEAD",
+        "sha512sum": "38aac126858d3b7f95c9d70b25af7c31bcd71d370ee82a3d3b8d1e69560e5c71904037f22c7def1f94bdeb769c51ee26042e3bab8256834d2bf87748f7488b7b",
         "version": "1.0.0",
-        "url": "https://github.com/OreoCupcakes/kotori-plugins-releases/blob/master/release/aoewarnings-1.1.2.jar?raw=true",
+        "url": "https://github.com/Brandon-Oglesby/public/raw/refs/heads/main/plugins/aoewarnings-1.0.0.jar",
         "requires": "^1.0.0"
       }
     ]
@@ -28,9 +28,9 @@
     "releases": [
       {
         "date": "2024-11-19",
-        "sha512sum": "4EE7B231DEDBBB8D2A1378C53FF5BD68F98C6FD7F1ED7649347D123E4B872B2FCE8E82927FB2C3582DD41C90FFB1ECEC86DD60DF5431B4E35CA00941A2F9EED6",
+        "sha512sum": "d98dff3f8405de79347c62fef6eceadb7197859cf901081fb460598a7561adfd4239d0ca3a8bd0a7125619cf62d08bac0da4b9e56574c03d68f8d9b38a7bb3e3",
         "version": "1.0.0",
-        "url": "https://github.com/OreoCupcakes/kotori-plugins-releases/blob/master/release/effecttimers-1.3.0.jar?raw=true",
+        "url": "https://github.com/Brandon-Oglesby/public/raw/refs/heads/main/plugins/effecttimers-1.0.0.jar",
         "requires": "^1.0.0"
       }
     ]
@@ -45,10 +45,10 @@
     "id": "htmlfontcolorbafpfontinfernohtml-plugin",
     "releases": [
       {
-        "date": "2023-10-12",
-        "sha512sum": "6EDCE77E4F5596B90E922D4463FB6681A34ED4E52BF1750BC73F3B153ED975EDBF8DC4A0423B64C8E2C940C712963EA24F16245A4A9A77E4E2838C77F22E747B",
+        "date": "2024-11-19",
+        "sha512sum": "c2a32adea4c50d237f3d090cdde30d3bdd840f7304161734b9eded92986592f31a13d07577e9947623d1aa59efd4b116d46ce36245b07486fdfb492e1b4ef5d4",
         "version": "1.0.0",
-        "url": "https://github.com/OreoCupcakes/kotori-plugins-releases/blob/master/release/inferno-1.3.1.jar?raw=true",
+        "url": "https://github.com/Brandon-Oglesby/public/raw/refs/heads/main/plugins/inferno-1.0.0.jar",
         "requires": "^1.0.0"
       }
     ]
@@ -64,9 +64,9 @@
     "releases": [
       {
         "date": "2024-11-19",
-        "sha512sum": "4D1DAF44B4D42BD54A9D2341F214055360E6203A1E26ADE05BB96B9249D73ABDDA3E9A6664BD0D6F00A911A4128A8B0261230765C95087A11EF38C57B1AE588C",
+        "sha512sum": "42bf4196f1fa15ca94168dc691ea708b648c21418e14bc18f7edc48307bc8321f99677f368b61258012d0ddfed203ac3711b61111212c4680f974653285cf033",
         "version": "1.0.0",
-        "url": "https://github.com/OreoCupcakes/kotori-ported-plugins-hosting/blob/master/release/javaexample-1.0.0.jar?raw=true",
+        "url": "https://github.com/Brandon-Oglesby/public/raw/refs/heads/main/plugins/javaexample-1.0.0.jar",
         "requires": "^1.0.0"
       }
     ]
@@ -82,9 +82,9 @@
     "releases": [
       {
         "date": "2024-11-19",
-        "sha512sum": "1DFB1E99B53EE729EE2ACD064D94740BF8F0D750AA74D8CF0ED7E913D9C5FFECFB2B1125A97060E43DBEA5234DF7945F6DFBF682220A3D8293E37BBC4B422FAB",
+        "sha512sum": "c076d49cdf57417c189f9d65416583f9288d1acf44b289153d938c047e9787341543d9e0e2253e68d235662ca53654f630fcc7c3a9187bdf49a03834bb27e188",
         "version": "1.0.0",
-        "url": "https://github.com/OreoCupcakes/kotori-plugins-releases/blob/master/release/kotoripluginloader-2.1.0.jar?raw=true",
+        "url": "https://github.com/Brandon-Oglesby/public/raw/refs/heads/main/plugins/custompluginloader-1.0.0.jar",
         "requires": "^1.0.0"
       }
     ]
@@ -100,9 +100,9 @@
     "releases": [
       {
         "date": "2024-11-19",
-        "sha512sum": "95197DF5FAF73E8A0FE4181A6BAD49E0CDA9D0E7C84ABE07F692887FE56527B9B69EF988BF4E155D9B4667AC72BE51E1010FFF8CD6BFA99A6B348218A07ED091",
+        "sha512sum": "c46453d00c18513c75d29f9219a46969a946ac90e8702ce2bfafa241c3a24759c06d145faf189c7b12034c5a9fb429aa383a48c33c77dace33e5e37fafc2e8a8",
         "version": "1.0.0",
-        "url": "https://github.com/OreoCupcakes/kotori-ported-plugins-hosting/blob/master/release/kotoritest-1.0.0.jar?raw=true",
+        "url": "https://github.com/Brandon-Oglesby/public/raw/refs/heads/main/plugins/customtest-1.0.0.jar",
         "requires": "^1.0.0"
       }
     ]
@@ -118,9 +118,9 @@
     "releases": [
       {
         "date": "2024-11-19",
-        "sha512sum": "B80642997EAC118CC4184B293E73404189F007E9A1B70382C07664605DE333C7237D3F89BF1DEDC8C9EDC4761FFC2EA9EB5E1B834C1EE031C9703EB3707E03EB",
+        "sha512sum": "731668bbbadde7b8fd6db4ec365f971748144affbf572e7b043f2c261c8fa4b9f1fe908b8920b523133dec0a159f4c1fbf4391e73080c0504f588410482b2ccb",
         "version": "1.0.0",
-        "url": "https://github.com/OreoCupcakes/kotori-plugins-releases/blob/master/release/kotoriutils-1.3.2.jar?raw=true",
+        "url": "https://github.com/Brandon-Oglesby/public/raw/refs/heads/main/plugins/customutils-1.0.0.jar",
         "requires": "^1.0.0"
       }
     ]
@@ -136,9 +136,9 @@
     "releases": [
       {
         "date": "2024-11-19",
-        "sha512sum": "6CEB8421CE92F569A7B2D43198348472F4960F34C3DD56EC4CA00FB0916FD2F686E150B56C447F2E0A0223F3B6CBF97175DC009212B07ABDE6473E3A6679DFDB",
+        "sha512sum": "dcc19bfb27f25523fe009c4f65ceef71b829515dc6bc87ce4830cef2d23b40c6a343d35ff1fc3ad27bae5a4dd0290bc7adfab23ce67c8909cc3cba3282734396",
         "version": "1.0.0",
-        "url": "https://github.com/OreoCupcakes/kotori-plugins-releases/blob/master/release/specbar-1.1.1.jar?raw=true",
+        "url": "https://github.com/Brandon-Oglesby/public/raw/refs/heads/main/plugins/specbar-1.0.0.jar",
         "requires": "^1.0.0"
       }
     ]
