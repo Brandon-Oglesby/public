@@ -74,7 +74,7 @@
   {
     "projectUrl": "https://localhost",
     "provider": "Custom",
-    "name": "<html><font color=#6b8af6>Custom</font> Plugin Loader</html>",
+    "name": "<html><font color=#6b8af6>Custom Plugin Loader</font></html>",
     "packageId": "custompluginloader",
     "description": "Loads custom plugins",
     "mainClassName": "CustomPluginLoader",
@@ -110,7 +110,7 @@
   {
     "projectUrl": "https://localhost",
     "provider": "Custom",
-    "name": "<html><font color=#6b8af6>[C]</font>Plugin Utility</html>",
+    "name": "<html><font color=#6b8af6>Custom Plugin Utils</font></html>",
     "packageId": "customutils",
     "description": "Utilities required for plugins to work.",
     "mainClassName": "CustomUtils",
