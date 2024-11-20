@@ -110,7 +110,7 @@
   {
     "projectUrl": "https://localhost",
     "provider": "Custom",
-    "name": "<html><font color=#6b8af6>Custom</font> Plugin Utils</html>",
+    "name": "<html><font color=#6b8af6>[C]</font>Plugin Utility</html>",
     "packageId": "customutils",
     "description": "Utilities required for plugins to work.",
     "mainClassName": "CustomUtils",
