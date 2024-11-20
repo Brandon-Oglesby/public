@@ -2,7 +2,7 @@
   {
     "projectUrl": "https://localhost",
     "provider": "Custom",
-    "name": "<html><font color=#6b8af6>[C]</font> AoE Warnings</html>",
+    "name": "<html><font color=#6b8af6>[P]</font> AoE Warnings</html>",
     "packageId": "aoewarnings",
     "description": "Shows the final destination for AoE Attack projectiles.",
     "mainClassName": "AoeWarningPlugin",
@@ -20,7 +20,7 @@
   {
     "projectUrl": "https://localhost",
     "provider": "Custom",
-    "name": "<html><font color=#6b8af6>[C]</font> Effect Timers</html>",
+    "name": "<html><font color=#6b8af6>[P]</font> Effect Timers</html>",
     "packageId": "effecttimers",
     "description": "Effect timers overlay on players.",
     "mainClassName": "EffectTimersPlugin",
@@ -38,7 +38,7 @@
   {
     "projectUrl": "https://localhost",
     "provider": "Custom",
-    "name": "<html><font color=#6b8af6>[C]</font> Inferno</html>",
+    "name": "<html><font color=#6b8af6>[P]</font> Inferno</html>",
     "packageId": "inferno",
     "description": "Inferno helper",
     "mainClassName": "InfernoPlugin",
@@ -74,7 +74,7 @@
   {
     "projectUrl": "https://localhost",
     "provider": "Custom",
-    "name": "<html><font color=#6b8af6>[C]</font> Plugin Loader</html>",
+    "name": "<html><font color=#6b8af6>Custom</font> Plugin Loader</html>",
     "packageId": "custompluginloader",
     "description": "Loads custom plugins",
     "mainClassName": "CustomPluginLoader",
@@ -110,7 +110,7 @@
   {
     "projectUrl": "https://localhost",
     "provider": "Custom",
-    "name": "<html><font color=#6b8af6>[C]</font> Custom Plugin Utils</html>",
+    "name": "<html><font color=#6b8af6>Custom</font> Plugin Utils</html>",
     "packageId": "customutils",
     "description": "Utilities required for plugins to work.",
     "mainClassName": "CustomUtils",
@@ -128,7 +128,7 @@
   {
     "projectUrl": "https://localhost",
     "provider": "Custom",
-    "name": "<html><font color=#6b8af6>[C]</font> Spec Bar</html>",
+    "name": "<html><font color=#6b8af6>[P]</font> Spec Bar</html>",
     "packageId": "specbar",
     "description": "Adds a spec bar to every weapon.",
     "mainClassName": "SpecBarPlugin",
