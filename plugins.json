@@ -10,7 +10,7 @@
     "releases": [
       {
         "date": "2024-11-19",
-        "sha512sum": "76f8534a620c430d7dc2695616194c4347b4648c7068017b6ee32a40ae2e94c35aff98a4ffc95a1a880b7d2de13ffbee2975c644502a0f32c5dcee40e7c7f37e",
+        "sha512sum": "d13742b554b421e7ebdf8c5dcfc372ed1d1a952d25ec19be4392e365109979bef723a3bf658b04e296de899ea3a4530ac094180b8fd68c6b1cd5374f80313a0f",
         "version": "1.0.0",
         "url": "https://github.com/Brandon-Oglesby/public/raw/refs/heads/main/plugins/aoewarnings-1.0.0.jar",
         "requires": "^1.0.0"
@@ -28,7 +28,7 @@
     "releases": [
       {
         "date": "2024-11-19",
-        "sha512sum": "f990ed2c2dd3e8d1eb9a6c4231cfb70b79f2b07da6111d0b9819f2326248a52ca15b0d5b7ab04a086c212db2d4e75a08738e710482febba84091ec1bd5ba08b2",
+        "sha512sum": "fc1f27fe3a2d23e751da8e16d725e599f231493597b7abda71cabe87f9369485800d413b375ea3dc1ba4d1009b5313233c3d77e8feba8dd2e6b3b7e6af82f3d7",
         "version": "1.0.0",
         "url": "https://github.com/Brandon-Oglesby/public/raw/refs/heads/main/plugins/effecttimers-1.0.0.jar",
         "requires": "^1.0.0"
@@ -46,7 +46,7 @@
     "releases": [
       {
         "date": "2024-11-19",
-        "sha512sum": "94f66d132e5eee1e771c3ba3fc8d6ed49c8728e843a4d416c27abe7b94b3ed29e287db5b275a47c3ba1c77e1144b0d93e497b9db055438d77d6f4ea861bdfc79",
+        "sha512sum": "be89a0f6b231402b8f539dede09099eab741768fba81141c605a3c44b2ad1c2423fc8565b540cb35f912c5d45f3ec0677dd9778f71b047e6ebb904b2f82245fa",
         "version": "1.0.0",
         "url": "https://github.com/Brandon-Oglesby/public/raw/refs/heads/main/plugins/inferno-1.0.0.jar",
         "requires": "^1.0.0"
@@ -118,7 +118,7 @@
     "releases": [
       {
         "date": "2024-11-19",
-        "sha512sum": "b2ed231cb50e08245c9cb668983b9c7f677a8a34eeac865c42ce9491ca68f23ebcfe5056274ffafa2a1bec7452c9664254f9a1668700d8539cdd2dbcf7cd0cc4",
+        "sha512sum": "b2069e46ca1227a4b251253cbcd1e1a572e56135e2af382fb5b7e2f81b0177463a05dd8becbd337b2edae25b4a2a3dddaee189d6d88ca03700f810125e243f3d",
         "version": "1.0.0",
         "url": "https://github.com/Brandon-Oglesby/public/raw/refs/heads/main/plugins/customutils-1.0.0.jar",
         "requires": "^1.0.0"
@@ -136,7 +136,7 @@
     "releases": [
       {
         "date": "2024-11-19",
-        "sha512sum": "ae25016c95018c115f70c447564a58c5df2d8e28b2bb1a71e1e1924f28eabf272c225d6b882f17755ad980cd62a1886364a8d8cafbe22a2340f401734fe8fb88",
+        "sha512sum": "dc8f2da74af3677b3cf5a9959ae4eb7f4a676ed9f493801f1176753a050eb28d2944c3f28d0c7850fb6f9f8bc8dae86714a67afd8f4023745b7ea31c22a9931f",
         "version": "1.0.0",
         "url": "https://github.com/Brandon-Oglesby/public/raw/refs/heads/main/plugins/specbar-1.0.0.jar",
         "requires": "^1.0.0"
