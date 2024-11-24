@@ -136,7 +136,7 @@
     "releases": [
       {
         "date": "2024-11-19",
-        "sha512sum": "ba577fc310b411174c7cad30f9a06ad5730e1526c940ec5ddb6febc8b0a2cef47de9c4ae976144883686413f0c8f44353743b80733f0c47859be3e772906b220",
+        "sha512sum": "2122e9020c611095090c4bf19976e9777a028716591044ee3368a98cf917131e7883d95c2aec549cef9e3fc8536abe9a870034266d54360f595e457ec8b4b7cf",
         "version": "1.0.0",
         "url": "https://github.com/Brandon-Oglesby/public/raw/refs/heads/main/plugins/specbar-1.0.0.jar",
         "requires": "^1.0.0"
