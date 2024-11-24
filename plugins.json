@@ -6,7 +6,7 @@
     "packageId": "aoewarnings",
     "description": "Shows the final destination for AoE Attack projectiles.",
     "mainClassName": "AoeWarningPlugin",
-    "id": "htmlfontcolorbafpfontaoewarningshtml-plugin",
+    "id": "htmlfontcolorbafpaoewarningsfonthtml-plugin",
     "releases": [
       {
         "date": "2024-11-19",
@@ -24,7 +24,7 @@
     "packageId": "effecttimers",
     "description": "Effect timers overlay on players.",
     "mainClassName": "EffectTimersPlugin",
-    "id": "htmlfontcolorbafpfonteffecttimershtml-plugin",
+    "id": "htmlfontcolorbafpeffecttimersfonthtml-plugin",
     "releases": [
       {
         "date": "2024-11-19",
@@ -42,7 +42,7 @@
     "packageId": "inferno",
     "description": "Inferno helper",
     "mainClassName": "InfernoPlugin",
-    "id": "htmlfontcolorbafpfontinfernohtml-plugin",
+    "id": "htmlfontcolorbafpinfernofonthtml-plugin",
     "releases": [
       {
         "date": "2024-11-19",
@@ -78,7 +78,7 @@
     "packageId": "custompluginloader",
     "description": "Loads custom plugins",
     "mainClassName": "CustomPluginLoader",
-    "id": "htmlfontcolorbafkotorifontpluginloaderhtml-plugin",
+    "id": "htmlfontcolorbafcustompluginloaderfonthtml-plugin",
     "releases": [
       {
         "date": "2024-11-19",
@@ -114,11 +114,11 @@
     "packageId": "customutils",
     "description": "Utilities required for plugins to work.",
     "mainClassName": "CustomUtils",
-    "id": "htmlfontcolorbafcustomfontpluginutilshtml-plugin",
+    "id": "htmlfontcolorbafcustompluginutilsfonthtml-plugin",
     "releases": [
       {
         "date": "2024-11-19",
-        "sha512sum": "91bf3cac5faada12786ff5366edaef62d568f8d80f4893552112e1024537df8392285e66d56d7c795f7c64878a115ce64f8932daa47533c8b6186d743ec4d352",
+        "sha512sum": "b2ed231cb50e08245c9cb668983b9c7f677a8a34eeac865c42ce9491ca68f23ebcfe5056274ffafa2a1bec7452c9664254f9a1668700d8539cdd2dbcf7cd0cc4",
         "version": "1.0.0",
         "url": "https://github.com/Brandon-Oglesby/public/raw/refs/heads/main/plugins/customutils-1.0.0.jar",
         "requires": "^1.0.0"
@@ -132,7 +132,7 @@
     "packageId": "specbar",
     "description": "Adds a spec bar to every weapon.",
     "mainClassName": "SpecBarPlugin",
-    "id": "htmlfontcolorbafpfontspecbarhtml-plugin",
+    "id": "htmlfontcolorbafpspecbarfonthtml-plugin",
     "releases": [
       {
         "date": "2024-11-19",
