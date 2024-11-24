@@ -2,7 +2,7 @@
   {
     "projectUrl": "https://localhost",
     "provider": "Custom",
-    "name": "<html><font color=#6b8af6>[P]</font> AoE Warnings</html>",
+    "name": "<html><font color=#6b8af6>[P] AoE Warnings</font></html>",
     "packageId": "aoewarnings",
     "description": "Shows the final destination for AoE Attack projectiles.",
     "mainClassName": "AoeWarningPlugin",
@@ -10,7 +10,7 @@
     "releases": [
       {
         "date": "2024-11-19",
-        "sha512sum": "38aac126858d3b7f95c9d70b25af7c31bcd71d370ee82a3d3b8d1e69560e5c71904037f22c7def1f94bdeb769c51ee26042e3bab8256834d2bf87748f7488b7b",
+        "sha512sum": "76f8534a620c430d7dc2695616194c4347b4648c7068017b6ee32a40ae2e94c35aff98a4ffc95a1a880b7d2de13ffbee2975c644502a0f32c5dcee40e7c7f37e",
         "version": "1.0.0",
         "url": "https://github.com/Brandon-Oglesby/public/raw/refs/heads/main/plugins/aoewarnings-1.0.0.jar",
         "requires": "^1.0.0"
@@ -20,7 +20,7 @@
   {
     "projectUrl": "https://localhost",
     "provider": "Custom",
-    "name": "<html><font color=#6b8af6>[P]</font> Effect Timers</html>",
+    "name": "<html><font color=#6b8af6>[P] Effect Timers</font></html>",
     "packageId": "effecttimers",
     "description": "Effect timers overlay on players.",
     "mainClassName": "EffectTimersPlugin",
@@ -28,7 +28,7 @@
     "releases": [
       {
         "date": "2024-11-19",
-        "sha512sum": "d98dff3f8405de79347c62fef6eceadb7197859cf901081fb460598a7561adfd4239d0ca3a8bd0a7125619cf62d08bac0da4b9e56574c03d68f8d9b38a7bb3e3",
+        "sha512sum": "f990ed2c2dd3e8d1eb9a6c4231cfb70b79f2b07da6111d0b9819f2326248a52ca15b0d5b7ab04a086c212db2d4e75a08738e710482febba84091ec1bd5ba08b2",
         "version": "1.0.0",
         "url": "https://github.com/Brandon-Oglesby/public/raw/refs/heads/main/plugins/effecttimers-1.0.0.jar",
         "requires": "^1.0.0"
@@ -38,7 +38,7 @@
   {
     "projectUrl": "https://localhost",
     "provider": "Custom",
-    "name": "<html><font color=#6b8af6>[P]</font> Inferno</html>",
+    "name": "<html><font color=#6b8af6>[P] Inferno</font></html>",
     "packageId": "inferno",
     "description": "Inferno helper",
     "mainClassName": "InfernoPlugin",
@@ -46,7 +46,7 @@
     "releases": [
       {
         "date": "2024-11-19",
-        "sha512sum": "c2a32adea4c50d237f3d090cdde30d3bdd840f7304161734b9eded92986592f31a13d07577e9947623d1aa59efd4b116d46ce36245b07486fdfb492e1b4ef5d4",
+        "sha512sum": "94f66d132e5eee1e771c3ba3fc8d6ed49c8728e843a4d416c27abe7b94b3ed29e287db5b275a47c3ba1c77e1144b0d93e497b9db055438d77d6f4ea861bdfc79",
         "version": "1.0.0",
         "url": "https://github.com/Brandon-Oglesby/public/raw/refs/heads/main/plugins/inferno-1.0.0.jar",
         "requires": "^1.0.0"
@@ -82,7 +82,7 @@
     "releases": [
       {
         "date": "2024-11-19",
-        "sha512sum": "c076d49cdf57417c189f9d65416583f9288d1acf44b289153d938c047e9787341543d9e0e2253e68d235662ca53654f630fcc7c3a9187bdf49a03834bb27e188",
+        "sha512sum": "8435474a62d8c7749ac6076e2ada13490acd5951b65340099dc593e753827382833dcb5ace8d584717b835e85bfd1313f21b5dd76a094c89b034b1dd691eaafc",
         "version": "1.0.0",
         "url": "https://github.com/Brandon-Oglesby/public/raw/refs/heads/main/plugins/custompluginloader-1.0.0.jar",
         "requires": "^1.0.0"
@@ -118,7 +118,7 @@
     "releases": [
       {
         "date": "2024-11-19",
-        "sha512sum": "731668bbbadde7b8fd6db4ec365f971748144affbf572e7b043f2c261c8fa4b9f1fe908b8920b523133dec0a159f4c1fbf4391e73080c0504f588410482b2ccb",
+        "sha512sum": "91bf3cac5faada12786ff5366edaef62d568f8d80f4893552112e1024537df8392285e66d56d7c795f7c64878a115ce64f8932daa47533c8b6186d743ec4d352",
         "version": "1.0.0",
         "url": "https://github.com/Brandon-Oglesby/public/raw/refs/heads/main/plugins/customutils-1.0.0.jar",
         "requires": "^1.0.0"
@@ -128,7 +128,7 @@
   {
     "projectUrl": "https://localhost",
     "provider": "Custom",
-    "name": "<html><font color=#6b8af6>[P]</font> Spec Bar</html>",
+    "name": "<html><font color=#6b8af6>[P] Spec Bar</font></html>",
     "packageId": "specbar",
     "description": "Adds a spec bar to every weapon.",
     "mainClassName": "SpecBarPlugin",
@@ -136,7 +136,7 @@
     "releases": [
       {
         "date": "2024-11-19",
-        "sha512sum": "dcc19bfb27f25523fe009c4f65ceef71b829515dc6bc87ce4830cef2d23b40c6a343d35ff1fc3ad27bae5a4dd0290bc7adfab23ce67c8909cc3cba3282734396",
+        "sha512sum": "ae25016c95018c115f70c447564a58c5df2d8e28b2bb1a71e1e1924f28eabf272c225d6b882f17755ad980cd62a1886364a8d8cafbe22a2340f401734fe8fb88",
         "version": "1.0.0",
         "url": "https://github.com/Brandon-Oglesby/public/raw/refs/heads/main/plugins/specbar-1.0.0.jar",
         "requires": "^1.0.0"
